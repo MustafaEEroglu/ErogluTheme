@@ -1,0 +1,34 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+## Proje Açıklaması
+Bu proje, one page portfolyo web sitesidir.
+- Kullanıcılar responsive tasarım ile tüm cihazlarda sorunsuz deneyim sunan bir site görüntüleyebilir
+- Bölümler arasında tek sayfada smooth scroll ile gezilebilir
+
+## Temel Özellikler
+- Hızlı Yükleme: SEO optimizasyonu ve lazy loading ile performans odaklı yapı
+- Dinamik İçerik: Proje filtreleme, dark/light mode ve animasyonlar
+
+## Yapay Zeka Yanıt Tercihleri
+- Kod önerilerini her zaman açıklama satırlarıyla birlikte ver
+- Her fonksiyon için kısa bir kullanım örneği ekle
+- Alternatif çözüm önerilerini yorumlar içinde belirt
+- İsteğimi gerçekleştirdikten sonra yapılan değişiklikleri ve işlemleri detaylı bir
+şekilde açıkla
+
+## Kodlama Tercihleri
+- SOLID prensiplerine uygun kod yaz
+- MVVM mimarisi kullanarak kod organizasyonunu sağla
+- Fonksiyon isimlendirmelerinde camelCase kullan
+
+## Tech Stack
+- Frontend: Next.js, TypeScript
+- Styling: Tailwind CSS	
+- Animasyon: Framer Motion
+- Deployment: Vercel
+- Sürüm Kontrolü : Git + GitHub
+- CI/CD : GitHub Actions
+

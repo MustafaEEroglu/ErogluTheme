@@ -8,6 +8,13 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      colors: {
+        primary: '#007AFF',
+        secondary: '#6B7280',
+      },
+      fontFamily: {
+        sans: ['var(--font-inter)'],
+      },
       animation: {
         'fade-in': 'fadeIn 0.5s ease-out forwards',
       },
